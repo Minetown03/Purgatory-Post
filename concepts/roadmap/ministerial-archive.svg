@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title description" xml:lang="en">
+<title id="title">Purgatory Post — Ministerial Archive</title>
+<desc id="description">Concept &amp; Prototype Completed. Core Gameplay Completed. Strategic Systems Baseline implemented. Gameplay Expansion Current phase. Product Refinement Planned, partially underway. Beta Testing Planned. Public Release Planned. Established Systems. Spatial puzzle &amp; core gameplay. 13 office tools. 54 dispositions in experimental build. Deckbuilding &amp; economy. Current Priorities. v0.3 playtesting and balancing. Weekly calendar. Boss encounters &amp; directives. Starting workplaces &amp; decks. Future Milestones. Visual &amp; audio identity. Polish &amp; accessibility. External beta testing. Public release.</desc>
+<rect x="0" y="0" width="1280" height="720" fill="#E4DAC3"/>
+<rect x="0" y="0" width="21" height="720" fill="#292722"/>
+<circle cx="10" cy="30" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="90" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="150" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="210" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="270" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="330" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="390" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="450" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="510" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="570" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="630" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<circle cx="10" cy="690" r="3" fill="#E4DAC3" stroke="none" stroke-width="1"/>
+<line x1="41" y1="22" x2="41" y2="698" stroke="#963538" stroke-width="1" stroke-dasharray="none"/>
+<line x1="45" y1="22" x2="45" y2="698" stroke="#963538" stroke-width="1" stroke-dasharray="none"/>
+<text x="67" y="45" font-family="Courier New, Liberation Mono, monospace" font-size="16" fill="#292722" font-weight="700" text-anchor="start" letter-spacing="2">CENTRAL POST OFFICE</text>
+<text x="1219" y="45" font-family="Courier New, Liberation Mono, monospace" font-size="16" fill="#292722" font-weight="400" text-anchor="end" letter-spacing="0">PROTOCOL  PP / DEV / 003</text>
+<line x1="66" y1="58" x2="1220" y2="58" stroke="#292722" stroke-width="1" stroke-dasharray="none"/>
+<text x="64" y="148" font-family="Georgia, Liberation Serif, serif" font-size="86" fill="#292722" font-weight="700" text-anchor="start" letter-spacing="0">PURGATORY POST</text>
+<text x="69" y="191" font-family="Courier New, Liberation Mono, monospace" font-size="23" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="1">THE MINISTERIAL DEVELOPMENT RECORD</text>
+<g aria-hidden="true" transform="translate(1070 138) rotate(-9)">
+<circle cx="0" cy="0" r="64" fill="none" stroke="#963538" stroke-width="2"/>
+<circle cx="0" cy="0" r="59" fill="none" stroke="#963538" stroke-width="2"/>
+<path transform="rotate(0.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(7.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(15.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(22.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(30.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(37.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(45.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(52.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(60.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(67.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(75.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(82.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(90.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(97.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(105.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(112.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(120.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(127.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(135.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(142.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(150.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(157.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(165.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(172.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(180.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(187.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(195.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(202.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(210.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(217.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(225.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(232.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(240.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(247.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(255.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(262.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(270.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(277.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(285.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(292.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(300.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(307.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(315.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(322.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(330.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(337.5)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(345.0)" d="M0 -55v4" stroke="#963538"/>
+<path transform="rotate(352.5)" d="M0 -55v4" stroke="#963538"/>
+<g stroke="#963538" stroke-width="3" fill="none"><ellipse cy="-24" rx="16" ry="5"/><path d="M-29 -11h58v34h-58z M-29 -11L0 10l29 -21 M-29 23l19 -18m39 18L10 5"/></g>
+<path d="M61 -15q16 -7 31 0t31 0t31 0" fill="none" stroke="#963538" stroke-width="2"/>
+<path d="M61 0q16 -7 31 0t31 0t31 0" fill="none" stroke="#963538" stroke-width="2"/>
+<path d="M61 15q16 -7 31 0t31 0t31 0" fill="none" stroke="#963538" stroke-width="2"/>
+</g>
+<line x1="67" y1="218" x2="1220" y2="218" stroke="#292722" stroke-width="3" stroke-dasharray="none"/>
+<text x="68" y="248" font-family="Georgia, Liberation Serif, serif" font-size="23" fill="#292722" font-weight="700" text-anchor="start" letter-spacing="0">Routing record</text>
+<line x1="146" y1="302" x2="641" y2="302" stroke="#526F55" stroke-width="4" stroke-dasharray="none"/>
+<line x1="641" y1="302" x2="1136" y2="302" stroke="#958B78" stroke-width="2" stroke-dasharray="6 6"/>
+<rect x="565" y="248" width="152" height="29" fill="#963538"/>
+<text x="641" y="269" font-family="Courier New, Liberation Mono, monospace" font-size="18" fill="#E4DAC3" font-weight="700" text-anchor="middle" letter-spacing="0">YOU ARE HERE</text>
+<path d="M635 277h12l-6 8z" fill="#963538"/>
+<circle cx="146" cy="302" r="15" fill="#526F55" stroke="#292722" stroke-width="1.5"/>
+<text x="146" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#E4DAC3" font-weight="700" text-anchor="middle" letter-spacing="0">1</text>
+<text x="146" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Concept &amp;</text>
+<text x="146" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Prototype</text>
+<text x="146" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Completed</text>
+<circle cx="311" cy="302" r="15" fill="#526F55" stroke="#292722" stroke-width="1.5"/>
+<text x="311" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#E4DAC3" font-weight="700" text-anchor="middle" letter-spacing="0">2</text>
+<text x="311" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Core</text>
+<text x="311" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Gameplay</text>
+<text x="311" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Completed</text>
+<circle cx="476" cy="302" r="15" fill="#526F55" stroke="#292722" stroke-width="1.5"/>
+<text x="476" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#E4DAC3" font-weight="700" text-anchor="middle" letter-spacing="0">3</text>
+<text x="476" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Strategic</text>
+<text x="476" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Systems</text>
+<text x="476" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Baseline</text>
+<text x="476" y="423" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">implemented</text>
+<circle cx="641" cy="302" r="18" fill="#963538" stroke="none" stroke-width="1"/>
+<circle cx="641" cy="302" r="13" fill="none" stroke="#E4DAC3" stroke-width="1"/>
+<text x="641" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#E4DAC3" font-weight="700" text-anchor="middle" letter-spacing="0">4</text>
+<text x="641" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Gameplay</text>
+<text x="641" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Expansion</text>
+<text x="641" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Current phase</text>
+<circle cx="806" cy="302" r="15" fill="#E4DAC3" stroke="#292722" stroke-width="1.5"/>
+<text x="806" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">5</text>
+<text x="806" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Product</text>
+<text x="806" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Refinement</text>
+<text x="806" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Planned, partially</text>
+<text x="806" y="423" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">underway</text>
+<circle cx="971" cy="302" r="15" fill="#E4DAC3" stroke="#292722" stroke-width="1.5"/>
+<text x="971" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">6</text>
+<text x="971" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Beta</text>
+<text x="971" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Testing</text>
+<text x="971" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Planned</text>
+<circle cx="1136" cy="302" r="15" fill="#E4DAC3" stroke="#292722" stroke-width="1.5"/>
+<text x="1136" y="308" font-family="Courier New, Liberation Mono, monospace" font-size="17" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">7</text>
+<text x="1136" y="348" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Public</text>
+<text x="1136" y="373" font-family="Georgia, Liberation Serif, serif" font-size="24" fill="#292722" font-weight="700" text-anchor="middle" letter-spacing="0">Release</text>
+<text x="1136" y="401" font-family="Arial, Liberation Sans, sans-serif" font-size="19" fill="#292722" font-weight="400" text-anchor="middle" letter-spacing="0">Planned</text>
+<rect x="68" y="458" width="372" height="39" fill="#292722"/>
+<text x="80" y="486" font-family="Georgia, Liberation Serif, serif" font-size="26" fill="#E4DAC3" font-weight="700" text-anchor="start" letter-spacing="0">Established Systems</text>
+<line x1="68" y1="538" x2="440" y2="538" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="72" y="523" width="5" height="5" fill="#526F55"/>
+<text x="87" y="530" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Spatial puzzle &amp; core gameplay</text>
+<line x1="68" y1="570" x2="440" y2="570" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="72" y="555" width="5" height="5" fill="#526F55"/>
+<text x="87" y="562" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">13 office tools</text>
+<line x1="68" y1="602" x2="440" y2="602" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="72" y="587" width="5" height="5" fill="#526F55"/>
+<text x="87" y="594" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">54 dispositions in experimental build</text>
+<line x1="68" y1="634" x2="440" y2="634" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="72" y="619" width="5" height="5" fill="#526F55"/>
+<text x="87" y="626" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Deckbuilding &amp; economy</text>
+<rect x="456" y="458" width="372" height="39" fill="#963538"/>
+<text x="468" y="486" font-family="Georgia, Liberation Serif, serif" font-size="26" fill="#E4DAC3" font-weight="700" text-anchor="start" letter-spacing="0">Current Priorities</text>
+<line x1="456" y1="538" x2="828" y2="538" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="460" y="523" width="5" height="5" fill="#963538"/>
+<text x="475" y="530" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">v0.3 playtesting and balancing</text>
+<line x1="456" y1="570" x2="828" y2="570" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="460" y="555" width="5" height="5" fill="#963538"/>
+<text x="475" y="562" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Weekly calendar</text>
+<line x1="456" y1="602" x2="828" y2="602" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="460" y="587" width="5" height="5" fill="#963538"/>
+<text x="475" y="594" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Boss encounters &amp; directives</text>
+<line x1="456" y1="634" x2="828" y2="634" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="460" y="619" width="5" height="5" fill="#963538"/>
+<text x="475" y="626" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Starting workplaces &amp; decks</text>
+<rect x="844" y="458" width="372" height="39" fill="#292722"/>
+<text x="856" y="486" font-family="Georgia, Liberation Serif, serif" font-size="26" fill="#E4DAC3" font-weight="700" text-anchor="start" letter-spacing="0">Future Milestones</text>
+<line x1="844" y1="538" x2="1216" y2="538" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="848" y="523" width="5" height="5" fill="#526F55"/>
+<text x="863" y="530" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Visual &amp; audio identity</text>
+<line x1="844" y1="570" x2="1216" y2="570" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="848" y="555" width="5" height="5" fill="#526F55"/>
+<text x="863" y="562" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Polish &amp; accessibility</text>
+<line x1="844" y1="602" x2="1216" y2="602" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="848" y="587" width="5" height="5" fill="#526F55"/>
+<text x="863" y="594" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">External beta testing</text>
+<line x1="844" y1="634" x2="1216" y2="634" stroke="#958B78" stroke-width="1" stroke-dasharray="none"/>
+<rect x="848" y="619" width="5" height="5" fill="#526F55"/>
+<text x="863" y="626" font-family="Arial, Liberation Sans, sans-serif" font-size="20" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Public release</text>
+<line x1="68" y1="672" x2="1220" y2="672" stroke="#292722" stroke-width="2" stroke-dasharray="none"/>
+<text x="68" y="697" font-family="Courier New, Liberation Mono, monospace" font-size="16" fill="#292722" font-weight="400" text-anchor="start" letter-spacing="0">Development Division</text>
+<text x="1220" y="697" font-family="Courier New, Liberation Mono, monospace" font-size="16" fill="#292722" font-weight="400" text-anchor="end" letter-spacing="0">ARCHIVE COPY   /   01</text>
+</svg>

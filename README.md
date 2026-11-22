@@ -33,6 +33,8 @@ I design and playtest the game. I write down what a change should do, what it mu
 
 ## Development Roadmap
 
+![Ministerial Archive roadmap showing Gameplay Expansion as the current phase, stage 4 of 7.](concepts/roadmap/ministerial-archive.svg)
+
 [Explore the seven-stage development roadmap](ROADMAP.md). It separates milestones already reached from current pre-beta work and planned testing.
 
 ## Project Status
